@@ -2,7 +2,7 @@ name: triplepointenvironment
 channels:
  - conda-forge
 dependencies:
- - jupyterlab
+ #- jupyterlab
  - numpy
  - matplotlib
  - pandas
