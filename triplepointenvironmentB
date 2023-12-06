@@ -1,0 +1,14 @@
+name: triplepointenvironment
+channels:
+ - conda-forge
+dependencies:
+ #- jupyterlab
+ - numpy
+ - matplotlib
+ - pandas
+ - netcdf4
+ - dateutils
+ - xesmf = 0.6.2
+ - cartopy
+ - esmpy = 8.2.0
+ - numba = 0.53.1
